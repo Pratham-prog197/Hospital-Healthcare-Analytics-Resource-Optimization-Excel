@@ -152,6 +152,14 @@ The simulated peak falls to approximately 404 patients, showing that targeted el
 
 6.Monitor operational KPIs after implementation, including bed utilization, waiting time, staffing utilization, emergency capacity, and daily patient volume
 
+# DashBoards
+## Age wise Analysis of medical condition
+<img width="800" height="400" alt="Picture4" src="https://github.com/user-attachments/assets/9eb0cb14-8f75-4656-acd1-a5b1a928f96a" />
+
+## Gender Wise Analysis of Medical Condition
+<img width="800" height="400" alt="Picture5" src="https://github.com/user-attachments/assets/f39f0418-84b5-489c-a0c2-c05df377e7dd" />
+
+
 
 Author
 
