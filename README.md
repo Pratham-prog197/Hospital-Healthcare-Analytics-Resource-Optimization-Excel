@@ -119,18 +119,40 @@ Obesity                          Blue Cross
 # Resource Management Scenarios
 Normal Scenerio(Without Analysis)
 The Patients footfall is not regular 
-<img width="1238" height="450" alt="Normal scenerio" src="https://github.com/user-attachments/assets/15a5c78b-d450-4b68-af38-d61129a5f8c5" />
+<img width="800" height="450" alt="Normal scenerio" src="https://github.com/user-attachments/assets/15a5c78b-d450-4b68-af38-d61129a5f8c5" />
 
 
 ## Scenario 1 — Demand Redistribution
 
 Patients were redistributed from the high-demand middle period toward lower-demand days at the beginning of the period.
 The model reduced the daily peak from approximately 497 to 401 patients, demonstrating how demand smoothing can reduce workload concentration.
-<img width="1238" height="452" alt="image" src="https://github.com/user-attachments/assets/cec4c6ef-b95c-45b5-b8f1-99e81eefb5a6" />
+<img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cec4c6ef-b95c-45b5-b8f1-99e81eefb5a6" />
 
 
 As You can see a smoother curve for The patients Footfall
 ## Scenario 2 — 80% Elective Patient Transfer
+<img width="800" height="452" alt="Picture2" src="https://github.com/user-attachments/assets/7093c239-952e-431a-8ad9-8cc9ba4c7f64" />
 
 A targeted scenario moved 80% of elective patients from the high-demand middle period toward earlier lower-volume days while retaining emergency and urgent demand.
 The simulated peak falls to approximately 404 patients, showing that targeted elective scheduling can flatten the demand curve while maintaining capacity for less-flexible admissions
+
+
+# Business Recommendations
+
+1.Use elective admissions as the primary scheduling lever because they are more flexible than emergency and urgent cases.
+
+2.Maintain a capacity buffer for emergency patients instead of scheduling beds and staff at full utilization.
+
+3.Use day-level historical demand patterns for workforce planning, especially around recurring peak periods.
+
+4.Align elective procedures with lower-footfall days to improve bed and staff utilization.
+
+5.Compare insurance plans using condition-specific billing patterns, but also consider premiums, deductibles, co-pays, network coverage, and out-of-pocket limits.
+
+6.Monitor operational KPIs after implementation, including bed utilization, waiting time, staffing utilization, emergency capacity, and daily patient volume
+
+
+
+Author
+
+Pratham Pulkeet
