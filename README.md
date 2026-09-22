@@ -126,7 +126,8 @@ The Patients footfall is not regular
 
 Patients were redistributed from the high-demand middle period toward lower-demand days at the beginning of the period.
 The model reduced the daily peak from approximately 497 to 401 patients, demonstrating how demand smoothing can reduce workload concentration.
-<img width="800" height="452" alt="image" src="https://github.com/user-attachments/assets/cec4c6ef-b95c-45b5-b8f1-99e81eefb5a6" />
+
+<img width="800" height="453" alt="scenerio1" src="https://github.com/user-attachments/assets/3991ebc8-e3f5-4cc9-b663-fa41f186046a" />
 
 
 As You can see a smoother curve for The patients Footfall
