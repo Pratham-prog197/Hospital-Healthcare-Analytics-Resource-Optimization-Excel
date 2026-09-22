@@ -152,7 +152,6 @@ The simulated peak falls to approximately 404 patients, showing that targeted el
 6.Monitor operational KPIs after implementation, including bed utilization, waiting time, staffing utilization, emergency capacity, and daily patient volume
 
 
-
 Author
 
 Pratham Pulkeet
